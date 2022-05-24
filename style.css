@@ -1,0 +1,74 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+#logo{
+    color: yellow;
+}
+#logo:hover{
+    color: gold;
+}
+#link{
+    color: white;
+}
+#link:hover{
+    color: yellow;
+}
+#link-dsc{
+    color: white;
+}
+#link-dsc:hover{
+    color: rgb(131, 131, 228);
+}
+#dsc-body{
+    background-color: rgb(131, 131, 228);
+}
+#index-card{
+    margin-top: 30px;
+}
+#index-card-end{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.card{
+    color: black;
+    height: 50%;
+    width: 400px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 180px;
+}
+#dsc-logo{
+    height: 100px;
+    width: 100px;
+    color: rgb(131, 131, 228);
+}
+body{
+    background-image: url(https://img.freepik.com/free-vector/sword-shield-seamless-background-backdrop_1284-45995.jpg);
+    color: white;
+}
+.cont{
+    display: block;
+    background-color: grey;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+#donation-body{
+    background-color: grey;
+}
+#sticky-footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+@media (max-width: 991px){
+    .nav-link{
+        text-align: center;
+    }
+    #toggler{
+        background-color: yellow;
+    }
+}
