@@ -62,10 +62,10 @@ body{
 #donation-body{
     background-color: grey;
 }
-#sticky-footer{
-    position: absolute;
-    bottom: 0;
+.footer{
+    height: 50px;
     width: 100%;
+    position: sticky;
 }
 @media (max-width: 991px){
     .nav-link{
