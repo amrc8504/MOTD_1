@@ -29,6 +29,9 @@
     margin-top: 30px;
     margin-bottom: 30px;
 }
+#dsc-link{
+    color: rgb(131, 131, 228);
+}
 .card{
     color: black;
     height: 50%;
