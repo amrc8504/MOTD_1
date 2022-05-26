@@ -62,11 +62,6 @@ body{
 #donation-body{
     background-color: grey;
 }
-.footer{
-    height: 50px;
-    width: 100%;
-    position: sticky;
-}
 @media (max-width: 991px){
     .nav-link{
         text-align: center;
