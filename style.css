@@ -65,6 +65,10 @@ body{
 iframe{
     margin-top: 10px;
 }
+#letter-icon{
+    width: 70px;
+    height: 70px;
+}
 @media (max-width: 991px){
     .nav-link{
         text-align: center;
