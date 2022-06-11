@@ -84,6 +84,14 @@ iframe{
 #link-to-admins{
     color: #86692b;
 }
+#dsc-n-donate{
+    background-color: #86692b;
+    border: none;
+}
+#dsc-n-donate:hover{
+    background-color: #a88332;
+    border: 1px solid black;
+}
 /* Scrollbar */
 /* width */
 ::-webkit-scrollbar {
