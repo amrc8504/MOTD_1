@@ -2,16 +2,16 @@
     font-family: 'Raleway', sans-serif;
 }
 #logo{
-    color: yellow;
+    color: #e1bc6b;
 }
 #logo:hover{
-    color: gold;
+    color: #86692b;
 }
 #link{
     color: white;
 }
 #link:hover{
-    color: yellow;
+    color: #e1bc6b;
 }
 #link-dsc{
     color: white;
@@ -99,7 +99,7 @@ iframe{
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: gold; 
+    background: #86692b;
   }
 
 @media (max-width: 991px){
@@ -107,6 +107,6 @@ iframe{
         text-align: center;
     }
     #toggler{
-        background-color: yellow;
+        background-color: #e1bc6b;
     }
 }
