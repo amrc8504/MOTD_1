@@ -17,7 +17,7 @@
     color: white;
 }
 #link-dsc:hover{
-    color: rgb(131, 131, 228);
+    color: #7289da;
 }
 #dsc-body{
     background-color: black;
@@ -30,7 +30,7 @@
     margin-bottom: 30px;
 }
 #dsc-link{
-    color: rgb(131, 131, 228);
+    color: #7289da;
 }
 .card{
     color: black;
@@ -44,7 +44,7 @@
 #dsc-logo{
     height: 100px;
     width: 100px;
-    color: rgb(131, 131, 228);
+    color: #7289da;
 }
 body{
     background-image: url(https://img.freepik.com/free-vector/sword-shield-seamless-background-backdrop_1284-45995.jpg);
