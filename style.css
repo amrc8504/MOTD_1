@@ -92,6 +92,14 @@ iframe{
     background-color: #a88332;
     color: black;
 }
+#giveaway-button{
+    background-color: #86692b;
+    border: none;
+}
+#giveaway-button:hover{
+    background-color: #a88332;
+    color: black;
+}
 /* Scrollbar */
 /* width */
 ::-webkit-scrollbar {
