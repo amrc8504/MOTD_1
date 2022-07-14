@@ -32,16 +32,16 @@
 #dsc-link{
     color: #7289da;
 }
-#welcome-message{
-    background-color: #e1bc6b;
-    color: #000000;
-    font-size: 16px;
-    border: 1px solid #a07823;
-}
 #dsc-card{
     margin-top: 2%;
     margin-bottom: 0;
 }
+/* #welcome-message{
+    background-color: #e1bc6b;
+    color: #000000;
+    font-size: 16px;
+    border: 1px solid #a07823;
+} */
 .dsc-channel{
     background-color: #7289da;
     padding: 3px;
