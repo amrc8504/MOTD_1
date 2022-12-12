@@ -34,7 +34,7 @@
 }
 #dsc-card{
     margin-top: 20%;
-    margin-bottom: auto;
+    margin-bottom: 0;
     border: 5px groove #e1bc6b;
 }
 #card-body-dsc{
