@@ -112,6 +112,25 @@ iframe{
     background-color: #a88332;
     color: black;
 }
+.btn-secondary{
+    background-color: #86692b;
+    color: white;
+    border: none;
+}
+.btn-secondary:hover{
+    background-color: #a88332;
+    color: black;
+}
+#copy-dsc:hover{
+    background-color: #a88332;
+    color: black;
+}
+#copy-dsc:active{
+    background-color: #6f5723;
+}
+#copysvg:hover{
+    color: #000000;
+}
 #giveaway-button{
     background-color: #86692b;
     border: none;
@@ -119,6 +138,12 @@ iframe{
 #giveaway-button:hover{
     background-color: #a88332;
     color: black;
+}
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 /* Scrollbar */
 /* width */
